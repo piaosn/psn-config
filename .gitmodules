@@ -1,0 +1,15 @@
+[submodule "vim/.vim/bundle/vim-misc"]
+	path = vim/.vim/bundle/vim-misc
+	url = https://github.com/xolox/vim-misc.git
+[submodule "vim/.vim/bundle/lua-support"]
+	path = vim/.vim/bundle/lua-support
+	url = https://github.com/WolfgangMehner/lua-support.git
+[submodule "vim/.vim/bundle/nerdcommenter"]
+	path = vim/.vim/bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "vim/.vim/bundle/vim-easytags"]
+	path = vim/.vim/bundle/vim-easytags
+	url = https://github.com/xolox/vim-easytags.git
+[submodule "vim/.vim/bundle/vim-colors-solarized"]
+	path = vim/.vim/bundle/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
